@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<day type="trial">
+    <!-- Introductory Sequence; Used only in Trials -->
+    <intro>
+        <event id="bgmstart:trial"/>
+        <dialogue character="phoenixwright">Hey guys, It's me, Pheonix Write!</dialogue>
+    </intro>
+    <!-- Main, used for both Trial and Investigation -->
+    <main>
+
+    </main>
+</day>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sillytalk.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Layer 1.png instance 1" x="0" y="0" width="613" height="573"/>
+	<SubTexture name="Layer 10.png instance 1" x="613" y="0" width="613" height="573"/>
+	<SubTexture name="Layer 11.png instance 1" x="1226" y="0" width="613" height="573"/>
+	<SubTexture name="Layer 12.png instance 1" x="0" y="573" width="613" height="573"/>
+	<SubTexture name="Layer 13.png instance 1" x="613" y="573" width="613" height="573"/>
+	<SubTexture name="Layer 14.png instance 1" x="1226" y="573" width="613" height="573"/>
+	<SubTexture name="Layer 15.png instance 1" x="0" y="1146" width="613" height="573"/>
+	<SubTexture name="Layer 16.png instance 1" x="613" y="1146" width="613" height="573"/>
+	<SubTexture name="Layer 17.png instance 1" x="1226" y="1146" width="613" height="573"/>
+	<SubTexture name="Layer 18.png instance 1" x="0" y="1719" width="613" height="573"/>
+	<SubTexture name="Layer 19.png instance 1" x="613" y="1719" width="613" height="573"/>
+	<SubTexture name="Layer 2.png instance 1" x="1226" y="1719" width="613" height="573"/>
+	<SubTexture name="Layer 20.png instance 1" x="0" y="2292" width="613" height="573"/>
+	<SubTexture name="Layer 21.png instance 1" x="613" y="2292" width="613" height="573"/>
+	<SubTexture name="Layer 3.png instance 1" x="1226" y="2292" width="613" height="573"/>
+	<SubTexture name="Layer 4.png instance 1" x="0" y="2865" width="613" height="573"/>
+	<SubTexture name="Layer 5.png instance 1" x="613" y="2865" width="613" height="573"/>
+	<SubTexture name="Layer 6.png instance 1" x="1226" y="2865" width="613" height="573"/>
+	<SubTexture name="Layer 7.png instance 1" x="0" y="3438" width="613" height="573"/>
+	<SubTexture name="Layer 8.png instance 1" x="613" y="3438" width="613" height="573"/>
+	<SubTexture name="Layer 9.png instance 1" x="1226" y="3438" width="613" height="573"/>
+</TextureAtlas>

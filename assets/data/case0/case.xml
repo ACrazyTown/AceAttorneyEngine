@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<case title="Turnabout Test" version="1">
+    <days>
+        <day type="trial" parts="2" />
+        <day type="investigation" parts="2" />
+    </days>
+</case>

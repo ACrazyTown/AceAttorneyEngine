@@ -1,0 +1,27 @@
+{
+    "day": 
+    {
+        "type": "trial",
+        "intro": 
+        {
+            "frames": [
+                {
+                    "bg": "defense",
+                    "fg": "defense_desk",
+                    "character": "phoenixwright",
+                    "animation": "stand",
+                    "text": "Hmm..."
+                },
+                {
+                    "text": "Oops... my bad, didn't mean to do that.",
+                    "bubble": "objection"
+                }
+            ]
+        },
+        "main":
+        {
+            "frames": []
+        }
+    },
+    "version": 1
+}

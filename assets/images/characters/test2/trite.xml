@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom format for spritesheets ripped from Ace Attorney Trilogy (2019) -->
+<!-- Generated... with my own HANDS!!! RAHHH!!!! -->
+<Texture>
+    <!-- id, x, y, w, h, game x offset, game y offset -->
+    <Sprite id="0" rx="0" ry="432" rw="778" rh="594" x="0" y="0" /> <!-- Body -->
+    <Sprite id="1" rx="173" ry="62" rw="367" rh="370" x="108" y="0" /> <!-- Head -->
+    <Sprite id="2" rx="0" ry="0" rw="54" rh="54" x="513" y="189" /> <!-- Eyeclose 1 -->
+    <Sprite id="3" rx="55" ry="0" rw="54" rh="54" x="459" y="189" /> <!-- Eyeclose 2 -->
+    <Sprite id="4" rx="540" ry="270" rw="202" rh="161" x="-108" y="0" /> <!-- Mouth Talk 1 -->
+    <Sprite id="5" rx="540" ry="54" rw="202" rh="161" x="-108" y="216" /> <!-- Mouth Talk 2 -->
+
+    <Animation name="stand" loop="true" fps="24">
+        <Frame repeat="64">
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+        </Frame>
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+            <FrameSprite sprite="2"/>
+        </Frame>
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+            <FrameSprite sprite="3"/>
+        </Frame>
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+            <FrameSprite sprite="2"/>
+        </Frame>
+    </Animation>
+
+    <Animation name="stand-talk" loop="true" fps="6">
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+        </Frame>
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+            <FrameSprite sprite="4" />
+        </Frame>
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+            <FrameSprite sprite="5" />
+        </Frame>
+        <Frame>
+            <FrameSprite sprite="0" />
+            <FrameSprite sprite="1" />
+            <FrameSprite sprite="4" />
+        </Frame>
+    </Animation>
+</Texture>
